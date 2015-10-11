@@ -9,9 +9,9 @@ share: false
 
 > Research interests: Smart Grid, Synchrophasor applications and Renewable energy
 
+## Journal
 {% include _toc.html %}
 
-## Journal
 1. **J. Guo**, Y. Zhang, M. A. Young, M. J. Till, A. Dimitrovski, Y. Liu, and P. Williging, "Design and Implementation of a Real-Time Off-Grid Operation Detection Tool from a Wide-Area Measurements Perspective", *IEEE Trans. Smart Grid*, vol.6, no.4, pp. 2080-2087, 2015. [(*IEEE Xplore*)](http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6894219)
 2. Y. Liu, L. Zhan, Y. Zhang, P.N. Markham, D. Zhou, **J. Guo**, Y. Lei, G. Kou, W. Yao, J. Chai and Y. Liu, "Wide-area Measurement System Development at the Distribution Level: a FNET/GridEye Example", *IEEE Trans. Power Delivery*, In Press. [(*IEEE Xplore*)](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7265090)
 3. C. Huang, F. Li, T. Ding, **J. Guo**, and Y. Liu, "A Bounded Model of the Communication Delay for System Integrity Protection Schemes", *IEEE Trans. Power Delivery*, under 2nd round review.
