@@ -1,0 +1,49 @@
+# Site wide configuration
+
+title:            Lost and Found
+locale:           en_US
+url:
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Jiahui Guo
+  avatar: bio-photo.jpg
+  bio: "Another engineer who loves smart grid and programming."
+  email: guo.jiahui07@gmail.com
+  twitter: Jiahui_Guo
+  facebook: guo.jiahui
+  google:
+    plus: JiahuiGuo07
+    analytics: UA-43400911-2
+  github: JiahuiGuo
+  linkedin: jiahuiguo
+  instagram: jiahui_guo
+  pinterest: jiahuiguo
+  foursquare: jiahui_guo
+  weibo: 1876820081
+  flickr: jiahuiguo
+  renren: 239494418
+  disqus-shortname: jiahuiguo
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
