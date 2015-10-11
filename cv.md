@@ -10,12 +10,9 @@ share: false
 A pdf version is available [here](cv.pdf). (*Last updated 2015-10-01*)
 {: .notice}
 
-## Education
-
 {% include _toc.html %}
 
-<!-- markup clean_ -->
-
+## Education
 - **University of Tennessee**, Knoxville, TN, US  
   *Doctor of Philosophy*,  Expected 08/2016  
   Electrical Engineering and Computer Science  
