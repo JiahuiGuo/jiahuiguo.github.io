@@ -8,6 +8,7 @@ share: false
 ---
 
 > Research interests: Smart Grid, Synchrophasor applications and Renewable energy
+
 {% include _toc.html %}
 
 ## Journal
