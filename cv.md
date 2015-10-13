@@ -7,9 +7,6 @@ tags: [cv]
 share: false
 ---
 
-A pdf version is available [here](cv.pdf). (*Last updated 2015-10-01*)
-{: .notice}
-
 {% include _toc.html %}
 
 ## Education
@@ -33,54 +30,63 @@ A pdf version is available [here](cv.pdf). (*Last updated 2015-10-01*)
   GPA: 89.4/100
 
 ## Professional Experience
-- **Graduate Research Assistant/Software Engineer** 
-  [**CURENT**](http://curent.utk.edu/)(*NSF/DOE funded Engineering Research Center*), Knoxville, TN, Aug. 2011 -- present  
+- **Graduate Research Assistant/Software Engineer**  
+  [***CURENT***](http://curent.utk.edu/) (*NSF/DOE funded Engineering Research Center*)  
+  Knoxville, TN, Aug. 2011 - *present*  
   * Developed real-time situational awareness applications for Wide Area Measurement System and data analytics tools for synchrophasor measurements in electric grid  
     - Development and maintenance of the [FNET](https://en.wikipedia.org/wiki/FNET) software applications (including real-time applications, near-real-time disturbance analysis and alert programs, web service and synchrophasor measurement storage)  
-    - Developed real-time applications (frequency-based event trigger, off-grid operation trigger) using[openPDC](http://openpdc.codeplex.com/)  
+    - Developed real-time applications (frequency-based event trigger, off-grid operation trigger) using [openPDC](http://openpdc.codeplex.com/)  
     - Designed database architecture for Frequency Digital Recorders information  
 
   * Events and Oscillation Data Analysis  
 	- Utilized matrix pencil method for event oscillation analysis  
 	- Proposed empirical mode decomposition and Yuler Walker algorithm for ambient frequency signal analysis  
 	- Implemented web client to visualize the results in real-time  
-	
-  * Photovoltaic Output Prediction  
-	- Proposed an ARMA forecasting model considering weather and radiation information  
-	- Evaluated the prediction performace  
-
+<br>
 - **Electric Transmission Operations Research Intern**  
   [Dominion Virginia Power](https://en.wikipedia.org/wiki/Dominion_Resources), Richmond, VA, Jul. 2014 - Jun. 2015  
   * Enterprise Data Historian Project  
     - Built asset data model Asset Framework (AF) 
     - Integrated SAP with PI AF
 	- Developed interactive data management tools based on PI AFSDK using C\#.
-	- Synchrophasor integration with PI system using OpenPDC PI Adaptor.
-
+	- Synchrophasor integration with PI system using OpenPDC PI Adaptor.  
+<br>
 - **Graduate Teaching Assistant**  
   University of Tennessee, Knoxville, TN, Jan. 2012 - Jan. 2013  
   - Introduction to Computers Computing
-  - Circuits I
-
+  - Circuits I  
+<br>
 - **Undergraduate Research Assistant**  
-  Lab of Electrical Economics and Information, Tsinghua University, Beijing, China, Oct. 2010 - Jul. 2011  
+  Lab of Electrical Economics and Information, Tsinghua University  
+  Beijing, China, Oct. 2010 - Jul. 2011  
     * Bus Load Forecasting Considering the Interactive Nature of Smart Grid  
 	  - Modeled bus load considering demand response of consumers  
 	  - Proposed bus load forecasting approaches for different occasions in smart grid  
-	  - Analyzed main factors in a bus load and consumers' behavior patterns
-
+	  - Analyzed main factors in a bus load and consumers' behavior patterns  
+<br>
 - **Quality Intern**  
   [Schneider Electric](http://www.schneider-electric.com/b2b/en/solutions/for-business/smart-cities/explore-our-offer/), Beijing, China, Jun. 2010 - Jul. 2010  
   - Worked on Incoming Quality Inspection(IQI), Quality Control(QC) and Quality Assurance(QA)  
   - Summarized supplier performance
 
 ## Honors and Awards
-- **Min H. Kao Fellowship**, University of Tennessee, Knoxville, TN, 2011
-- **Excellent Social Work Scholarship**, Tsinghua University, 2010
-- **Excellent Academic Scholarship**, Tsinghua University, 2009
-- **Second Price, Electronic Technology Practice**, Tsinghua University, 2009
-- **Excellent Academic Scholarship**, Tsinghua University, 2008
-- **Award for Student Excellence**, Inner Mongolia, China, 2006
+- **Min H. Kao Fellowship**  
+University of Tennessee, Knoxville, TN, 2011  
+<br>
+- **Excellent Social Work Scholarship**  
+Tsinghua University, 2010  
+<br>
+- **Excellent Academic Scholarship**  
+Tsinghua University, 2009  
+<br>
+- **Second Price, Electronic Technology Practice**  
+Tsinghua University, 2009  
+<br>
+- **Excellent Academic Scholarship**  
+Tsinghua University, 2008  
+<br>
+- **Award for Student Excellence**  
+Inner Mongolia, China, 2006
 
 ## Certificates
 - **"Machine Learning"**, [Coursera](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=152), Oct. 2012
@@ -116,14 +122,19 @@ A pdf version is available [here](cv.pdf). (*Last updated 2015-10-01*)
 
 ## Public Services And Volunteer Activities
 - **Mentoring Undergraduate**  
-  University of Tennessee, Knoxville, TN, Jan. 2014 - Jun. 2014 
+  University of Tennessee, Knoxville, TN, Jan. 2014 - Jun. 2014  
+<br>
 - **CURENT Educational Outreach**  
-  Sequoyah Elementary School, Knoxville, TN, Sep. 2014 
+  Sequoyah Elementary School, Knoxville, TN, Sep. 2014  
+<br>
 - **Publication Committee in Student Leadership Council**  
-  [CURENT](http://curent.utk.edu), Jul. 2013 - Jun. 2014
+  [CURENT](http://curent.utk.edu), Jul. 2013 - Jun. 2014  
+<br>
 - **Vice President**  
-  Student Association of Science and Technology of [EEA Department](http://www.eea.tsinghua.edu.cn/publish/eeaen/index.html), Tsinghua University, Beijing, China, Jul. 2009 - Jun. 2010,
+  Student Association of Science and Technology of [EEA Department](http://www.eea.tsinghua.edu.cn/publish/eeaen/index.html), Tsinghua University, Beijing, China, Jul. 2009 - Jun. 2010  
+<br>
 - **Transportation Operation Assistant**  
-  International Paralympic Committee, Beijing, China, Aug. 2008
+  International Paralympic Committee, Beijing, China, Aug. 2008  
+<br>
 - **Voluntary Teaching Team**  
   Guanping Elementary School, Yunnan Province, China, Jul. 2008
