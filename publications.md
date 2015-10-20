@@ -28,7 +28,7 @@ share: false
 8. **J. Guo**, Y. Zhang, M. A. Young, M. J. Till, A. Dimitrovski, Y. Liu, and P. Williging, "Design and implementation of real-time off-grid detection tool based on FNET/GridEye", in *Proc. IEEE 2014 Power and Energy Society General Meeting*, July 2014. [(*IEEE Xplore*)](http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6939090)
 9. **J. Guo**, H. Liu, D. Zhou, J. Chai, Y. Zhang, and Y. Liu, "Real-time Power System Electromechanical Mode Estimation Implementation and Visualization Utilizing Synchrophasor Data", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, In Press. [(*pdf*)](2016-ModeEstimation.pdf)
 10. H. Liu, **J. Guo**, W. Yu, T. Xia, R. Sun, M. Gardner, L. Zhu, and Y. Liu, "Design and Implementation of Enterprise-level Data Platform and Big Data Driven Applications", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, under review.
-11. J. Chai, J. Zhao, W. Yao, **J. Guo**, and Y. Liu, "Application of Wide Area Power System Measurement for Digital Authentication", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, under review.
+11. J. Chai, J. Zhao, W. Yao, **J. Guo**, and Y. Liu, "Application of Wide Area Power System Measurement for Digital Authentication", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, In Press.
 12. J. Chai, Y. Liu, **J. Guo**, L. Wu, D. Zhou, Y. Liu, T. King, M. A. Young and J. R. Gracia, "FNET/GridEye-based Wide-area Measurement Data Analytics'', in *Proc. 2016 IEEE PES Power Systems Computation Conference (PSCC)*, under review.
 
 ## Book Chapter
