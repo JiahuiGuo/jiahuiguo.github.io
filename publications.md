@@ -8,7 +8,7 @@ share: false
 ---
 {% include _toc.html %}
 
-> Research interests: Smart Grid, Synchrophasor applications and Renewable energy
+> Research interests: Smart Grid, Synchrophasor applications, Renewable energy and Data analytics.
 
 ## Journal
 1. **J. Guo**, Y. Zhang, M. A. Young, M. J. Till, A. Dimitrovski, Y. Liu, and P. Williging, "Design and Implementation of a Real-Time Off-Grid Operation Detection Tool from a Wide-Area Measurements Perspective", *IEEE Trans. Smart Grid*, vol.6, no.4, pp. 2080-2087, 2015. [(*IEEE Xplore*)](http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6894219)
