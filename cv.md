@@ -72,19 +72,14 @@ share: false
 ## Honors and Awards
 - **Min H. Kao Fellowship**  
 University of Tennessee, Knoxville, TN, 2011  
-<br>
 - **Excellent Social Work Scholarship**  
 Tsinghua University, 2010  
-<br>
 - **Excellent Academic Scholarship**  
 Tsinghua University, 2009  
-<br>
 - **Second Price, Electronic Technology Practice**  
 Tsinghua University, 2009  
-<br>
 - **Excellent Academic Scholarship**  
 Tsinghua University, 2008  
-<br>
 - **Award for Student Excellence**  
 Inner Mongolia, China, 2006
 
@@ -123,18 +118,13 @@ Inner Mongolia, China, 2006
 ## Public Services And Volunteer Activities
 - **Mentoring Undergraduate**  
   University of Tennessee, Knoxville, TN, Jan. 2014 - Jun. 2014  
-<br>
 - **CURENT Educational Outreach**  
   Sequoyah Elementary School, Knoxville, TN, Sep. 2014  
-<br>
 - **Publication Committee in Student Leadership Council**  
   [CURENT](http://curent.utk.edu), Jul. 2013 - Jun. 2014  
-<br>
 - **Vice President**  
   Student Association of Science and Technology of [EEA Department](http://www.eea.tsinghua.edu.cn/publish/eeaen/index.html), Tsinghua University, Beijing, China, Jul. 2009 - Jun. 2010  
-<br>
 - **Transportation Operation Assistant**  
   International Paralympic Committee, Beijing, China, Aug. 2008  
-<br>
 - **Voluntary Teaching Team**  
   Guanping Elementary School, Yunnan Province, China, Jul. 2008
