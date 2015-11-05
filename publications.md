@@ -31,6 +31,7 @@ share: false
 10. H. Liu, **J. Guo**, W. Yu, T. Xia, R. Sun, M. Gardner, L. Zhu, and Y. Liu, "Design and Implementation of Enterprise-level Data Platform and Big Data Driven Applications", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, under review.
 11. J. Chai, J. Zhao, W. Yao, **J. Guo**, and Y. Liu, "Application of Wide Area Power System Measurement for Digital Authentication", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, In Press.
 12. J. Chai, Y. Liu, **J. Guo**, L. Wu, D. Zhou, Y. Liu, T. King, M. A. Young and J. R. Gracia, "FNET/GridEye-based Wide-area Measurement Data Analytics'', in *Proc. 2016 IEEE PES Power Systems Computation Conference (PSCC)*, under review.
+13. S. You, **J. Guo**, W. Yao, S. Wang, Y. Liu, and Y Liu, "Multi-Channel Inter-Area Oscillation Mode Identification Using Multivariate Empirical Mode Decomposition", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted.  
 
 ## Book Chapter
 1. Y. Liu, Y. Liu, Y. Zhang, **J. Guo**, D. Zhou, "Wide Area Monitoring Through Synchrophasor Measurement", *Handbook of Smart Grid Development*, *Wiley*, 2015, In Press.
