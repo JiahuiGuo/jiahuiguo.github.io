@@ -41,7 +41,8 @@ share: false
   * Events and Oscillation Data Analysis  
 	- Utilized matrix pencil method for event oscillation analysis  
 	- Proposed empirical mode decomposition and Yuler Walker algorithm for ambient frequency signal analysis  
-	- Implemented web client to visualize the results in real-time  
+	- Implemented web client to visualize the results in real-time 
+ 
 <br>
 - **Electric Transmission Operations Research Intern**  
   [Dominion Virginia Power](https://en.wikipedia.org/wiki/Dominion_Resources), Richmond, VA, Jul. 2014 - Jun. 2015  
@@ -100,6 +101,7 @@ Inner Mongolia, China, 2006
 - IEEE PES Power Africa Conference, 2015
 - IEEE Electric Utility Deregulation & Restructuring & Power Technologies International Conference, 2015
 - IEEE PES Transmission & Distribution Conference & Exposition, 2016
+- IEEE Power and Energy Conference at Illinois (PECI), 2016
 
 ## Skills
 - **Languages**: Native in Chinese, proficiency in English.

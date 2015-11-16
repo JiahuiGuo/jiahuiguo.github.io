@@ -18,7 +18,6 @@ share: false
 5. S. You, **J. Guo**, Y. Liu and Y. Liu, "Oscillation Mode Identification Based on Wide-Area Ambient Measurements Using Multivariate Empirical Mode Decomposition", *Electric Power Systems Research*, under review.
 6. C. Huang, F. Li, **J. Guo**, J. Xu,  and Y. Liu, "A Method to Mitigate the Effects of Communication Failure and Data Missing in WAMS", *Journal of Modern Power Systems and Clean Energy (MPCE)*, under review.
 
-
 ## Conference
 1. P. Markham, Y. Zhang, **J. Guo**, Y. Liu, T. Bilke, and D. Bertagnolli, "Analysis of frequency extrema in the Eastern and Western Interconnections, 2010-2011", in *Proc. IEEE 2014 Power and Energy Society General Meeting*, July 2012. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6345115)
 2. D. He, **J. Guo**, and W. Lin, "The impact of trading wind power in both energy and regulation reserve market on system operation", in *Proc. North American Power Symposium (NAPS)*, 2012. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6336399)
@@ -30,13 +29,14 @@ share: false
 8. **J. Guo**, Y. Zhang, M. A. Young, M. J. Till, A. Dimitrovski, Y. Liu, and P. Williging, "Design and implementation of real-time off-grid detection tool based on FNET/GridEye", in *Proc. IEEE 2014 Power and Energy Society General Meeting*, July 2014. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6939090)
 9. **J. Guo**, H. Liu, D. Zhou, J. Chai, Y. Zhang, and Y. Liu, "Real-time Power System Electromechanical Mode Estimation Implementation and Visualization Utilizing Synchrophasor Data", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, In Press. [<i class="fa fa-file-pdf-o"></i>](/docs/2016-TD-mode-estimation.pdf) 
 10. H. Liu, **J. Guo**, W. Yu, T. Xia, R. Sun, M. Gardner, L. Zhu, and Y. Liu, "Design and Implementation of Enterprise-level Data Platform and Big Data Driven Applications", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, In Press. [<i class="fa fa-file-pdf-o"></i>](/docs/2016-TD-BigData.pdf)
-11. J. Chai, J. Zhao, W. Yao, **J. Guo**, and Y. Liu, "Application of Wide Area Power System Measurement for Digital Authentication", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, In Press. [<i class="fa fa-file-pdf-o"></i>](/docs/2016-TD-Digital.pdf)
+11. J. Chai, J. Zhao, W. Yao, **J. Guo**, and Y. Liu, "Application of Wide Area Power System Measurement for Digital Authentication", in *Proc. 2016 IEEE PES Transmission and Distribution Conference and Exposition*, In Press. [<i class="fa fa-file-pdf-o"></i>](/docs/2016-TD-Digital.pdf)  
 {% comment %} 
 12. J. Chai, Y. Liu, **J. Guo**, L. Wu, D. Zhou, Y. Liu, T. King, M. A. Young and J. R. Gracia, "FNET/GridEye-based Wide-area Measurement Data Analytics'', in *Proc. 2016 IEEE PES Power Systems Computation Conference (PSCC)*, under review.
-13. S. You, **J. Guo**, W. Yao, S. Wang, Y. Liu, and Y Liu, "Multi-Channel Inter-Area Oscillation Mode Identification Using Multivariate Empirical Mode Decomposition", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted. 
-14. L. Wu, Y. Liu, D. Zhou, **J. Guo**, Y. Liu, "Observation of Inertial Frequency Response of Main Power Grids Worldwide Using FNET/GridEye", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted. 
-15. H. Liu, L. Zhu, Z. Pan, **J. Guo**, J. Chai, W. Yu, and Y. Liu, "Comparison of MIMO System Identification Methods for Electromechanical Oscillation Damping Estimation", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted.  
-{% endcomment %} 
+13. **J. Guo**, S. You, C. Huang, H. Liu, J. Chai, L. Wu, D. Zhou, Y. Liu and J. Glass, "A Ensemble Photovoltaic Power Forecasting Model Through Statistical Learning of Historical Weather and Solar Irradiation Dataset", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted.
+14. S. You, **J. Guo**, W. Yao, S. Wang, Y. Liu, and Y Liu, "Multi-Channel Inter-Area Oscillation Mode Identification Using Multivariate Empirical Mode Decomposition", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted. 
+15. L. Wu, Y. Liu, D. Zhou, **J. Guo**, Y. Liu, "Observation of Inertial Frequency Response of Main Power Grids Worldwide Using FNET/GridEye", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted. 
+16. H. Liu, L. Zhu, Z. Pan, **J. Guo**, J. Chai, W. Yu, and Y. Liu, "Comparison of MIMO System Identification Methods for Electromechanical Oscillation Damping Estimation", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, submitted.  
+{% endcomment %}
 
 ## Book Chapter
 1. Y. Liu, Y. Liu, Y. Zhang, **J. Guo**, D. Zhou, "Wide Area Monitoring Through Synchrophasor Measurement", *Handbook of Smart Grid Development*, *Wiley*, 2015, In Press.
