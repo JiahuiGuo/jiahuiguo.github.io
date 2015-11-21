@@ -33,7 +33,6 @@ share: false
 - **Graduate Research Assistant/Software Engineer**  
   [***CURENT***](http://curent.utk.edu/) (*NSF/DOE funded Engineering Research Center*)  
   Knoxville, TN, Aug. 2011 - *present*  
-
   * Developed real-time situational awareness applications for Wide Area Measurement System and data analytics tools for synchrophasor measurements in electric grid  
     - Development and maintenance of the [FNET](https://en.wikipedia.org/wiki/FNET) software applications (including real-time applications, near-real-time disturbance analysis and alert programs, web service and synchrophasor measurement storage)  
     - Developed real-time applications (frequency-based event trigger, off-grid operation trigger) using [openPDC](http://openpdc.codeplex.com/)  
