@@ -41,6 +41,9 @@ share: false
 - **Quality Intern**  
   [Schneider Electric](http://www.schneider-electric.com/b2b/en/solutions/for-business/smart-cities/explore-our-offer/), Beijing, China, Jun. 2010 - Jul. 2010  
 
+## R&D Projects
+- Off-Grid Operation Detection from a Wide-Area Measurements Perspective
+
 ## Honors and Awards
 - **Min H. Kao Fellowship**  
 University of Tennessee, Knoxville, TN, 2011  
