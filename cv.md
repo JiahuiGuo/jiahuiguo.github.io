@@ -33,41 +33,19 @@ share: false
 - **Graduate Research Assistant/Software Engineer**  
   [***CURENT***](http://curent.utk.edu/) (*NSF/DOE funded Engineering Research Center*)  
   Knoxville, TN, Aug. 2011 - *present*  
-  * Developed real-time situational awareness applications for Wide Area Measurement System and data analytics tools for synchrophasor measurements in electric grid  
-    - Development and maintenance of the [FNET](https://en.wikipedia.org/wiki/FNET) software applications (including real-time applications, near-real-time disturbance analysis and alert programs, web service and synchrophasor measurement storage)  
-    - Developed real-time applications (frequency-based event trigger, off-grid operation trigger) using [openPDC](http://openpdc.codeplex.com/)  
-    - Designed database architecture for Frequency Digital Recorders information  
-
-  * Events and Oscillation Data Analysis  
-	- Utilized matrix pencil method for event oscillation analysis  
-	- Proposed empirical mode decomposition and Yuler Walker algorithm for ambient frequency signal analysis  
-	- Implemented web client to visualize the results in real-time 
- 
+  
 - **Electric Transmission Operations Research Intern**  
   [Dominion Virginia Power](https://en.wikipedia.org/wiki/Dominion_Resources), Richmond, VA, Jul. 2014 - Jun. 2015  
-  * Enterprise Data Historian Project  
-    - Built asset data model Asset Framework (AF) 
-    - Integrated SAP with PI AF
-	- Developed interactive data management tools based on PI AFSDK using C\#.
-	- Synchrophasor integration with PI system using OpenPDC PI Adaptor.  
 
 - **Graduate Teaching Assistant**  
   University of Tennessee, Knoxville, TN, Jan. 2012 - Jan. 2013  
-  - Introduction to Computers Computing
-  - Circuits I  
-
+  
 - **Undergraduate Research Assistant**  
   Lab of Electrical Economics and Information, Tsinghua University  
   Beijing, China, Oct. 2010 - Jul. 2011  
-    * Bus Load Forecasting Considering the Interactive Nature of Smart Grid  
-	  - Modeled bus load considering demand response of consumers  
-	  - Proposed bus load forecasting approaches for different occasions in smart grid  
-	  - Analyzed main factors in a bus load and consumers' behavior patterns  
-
+    
 - **Quality Intern**  
   [Schneider Electric](http://www.schneider-electric.com/b2b/en/solutions/for-business/smart-cities/explore-our-offer/), Beijing, China, Jun. 2010 - Jul. 2010  
-  - Worked on Incoming Quality Inspection(IQI), Quality Control(QC) and Quality Assurance(QA)  
-  - Summarized supplier performance
 
 ## Honors and Awards
 - **Min H. Kao Fellowship**  
