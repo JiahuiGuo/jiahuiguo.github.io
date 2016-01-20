@@ -9,7 +9,7 @@ share: false
 
 {% include _toc.html %}
 
-> A pdf version of the CV can be found [here](cv.pdf)
+> A pdf version of the CV can be found [here](cv.pdf), last updated: Jan.19, 2016.
 
 ## Education
 - **University of Tennessee**, Knoxville, TN, US  
