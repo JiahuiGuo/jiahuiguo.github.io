@@ -9,6 +9,8 @@ share: false
 
 {% include _toc.html %}
 
+> A pdf version of the CV can be found [here](cv.pdf)
+
 ## Education
 - **University of Tennessee**, Knoxville, TN, US  
   *Doctor of Philosophy*,  Expected 08/2016  
