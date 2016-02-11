@@ -15,7 +15,7 @@ share: false
 2. Y. Liu, L. Zhan, Y. Zhang, P.N. Markham, D. Zhou, **J. Guo**, Y. Lei, G. Kou, W. Yao, J. Chai and Y. Liu, "Wide-area Measurement System Development at the Distribution Level: a FNET/GridEye Example", *IEEE Trans. Power Delivery*, In Press. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265090)
 3. C. Huang, F. Li, T. Ding, **J. Guo**, and Y. Liu, "A Bounded Model of the Communication Delay for System Integrity Protection Schemes", *IEEE Trans. Power Delivery*, In Press.
 4. D. Zhou, **J. Guo**, Y. Zhang, J. Chai, H. Liu, X. Gui, and Y. Liu, "Distributed Data Analytics Platform for Wide-Area Synchrophasor Measurement Systems", *IEEE Trans. Smart Grid*, In Press.
-5. S. You, **J. Guo**, Y. Liu and Y. Liu, "Oscillation Mode Identification Based on Wide-Area Ambient Measurements Using Multivariate Empirical Mode Decomposition", *Electric Power Systems Research*, In Press.
+5. S. You, **J. Guo**, Y. Liu and Y. Liu, "Oscillation Mode Identification Based on Wide-Area Ambient Measurements Using Multivariate Empirical Mode Decomposition", *Electric Power Systems Research*, vol.134, pp. 158–166, May 2016. [<i class="fa fa-link"></i>](http://www.sciencedirect.com/science/article/pii/S0378779616000158).
 6. C. Huang, F. Li, D. Zhou, **J. Guo**, Z. Pan, Y. Liu, and Y. Liu, “Data quality issues for synchrophasor applications Part I: a review,” *Journal of Modern Power Systems and Clean Energy*, under review.
 
 ## Conference
