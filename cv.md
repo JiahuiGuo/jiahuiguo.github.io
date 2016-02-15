@@ -13,13 +13,13 @@ share: false
 - **University of Tennessee**, Knoxville, TN, US  
   *Doctor of Philosophy*,  Expected 08/2016  
   Electrical Engineering and Computer Science  
-  Advisor: [Dr. Yilu Liu](http://www.eecs.utk.edu/people/faculty/liu) (*IEEE Fellow*)  
+  Advisor: [Dr. Yilu Liu](http://www.eecs.utk.edu/people/faculty/liu) (*NAE Member, IEEE Fellow*)  
   GPA: 3.97/4.0  
 - **University of Tennessee**, Knoxville, TN, US  
   *Master of Science*, 05/2014  
   Electrical Engineering and Computer Science  
   Major in Power System, Minor in Computer Science  
-  Advisor: [Dr. Yilu Liu](http://www.eecs.utk.edu/people/faculty/liu) (*IEEE Fellow*)  
+  Advisor: [Dr. Yilu Liu](http://www.eecs.utk.edu/people/faculty/liu) (*NAE Member, IEEE Fellow*)  
   GPA: 4.0/4.0  
 - **Tsinghua University**, Beijing, China  
   *Bachelor of Science*, 07/2014  
@@ -77,8 +77,8 @@ Inner Mongolia, China, 2006
 - **Scripting Languages**: Matlab, Python, R, JavaScript
 - **Database**: MySQL, MongoDB, OSISoft PI
 - **Big Data Ecosystems**: HDFS, YARN, Spark
-- **Operating Systems**: Windows, Mac OSX, Linux 
-- **Documents**: LaTeX, Markdown 
+- **Operating Systems**: Windows, Mac OSX, Linux
+- **Documents**: LaTeX, Markdown
 - **Tools**: Git, Visual Studio, IntelliJ, RStudio  
 
 ## Certificates
