@@ -65,6 +65,7 @@ Inner Mongolia, China, 2006
 - IEEE Transaction on Smart Grid
 - IEEE Transaction on Power Delivery
 - Elsevier Electric Power Systems Research
+- CSEE Journal of Power and Energy Systems
 - IEEE PES General Meeting, 2014, 2015, & 2016
 - IEEE International Conference on Smart Grid Communications, 2015
 - IEEE Global Communications Conference, Exhibition & Industry Forum, 2015
