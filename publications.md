@@ -14,7 +14,7 @@ share: false
 1. **J. Guo**, Y. Zhang, M. A. Young, M. J. Till, A. Dimitrovski, Y. Liu, and P. Williging, "Design and Implementation of a Real-Time Off-Grid Operation Detection Tool from a Wide-Area Measurements Perspective", *IEEE Trans. Smart Grid*, vol.6, no.4, pp. 2080-2087, 2015. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6894219)
 2. D. Zhou, **J. Guo**, Y. Zhang, J. Chai, H. Liu, X. Gui, and Y. Liu, "Distributed Data Analytics Platform for Wide-Area Synchrophasor Measurement Systems", *IEEE Trans. Smart Grid*, In Press. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=7420696)
 3. S. You, **J. Guo**, Y. Liu and Y. Liu, "Oscillation Mode Identification Based on Wide-Area Ambient Measurements Using Multivariate Empirical Mode Decomposition", *Electric Power Systems Research*, vol.134, pp. 158–166, May 2016. [<i class="fa fa-link"></i>](http://www.sciencedirect.com/science/article/pii/S0378779616000158).
-4. Y. Liu, L. Zhan, Y. Zhang, P.N. Markham, D. Zhou, **J. Guo**, Y. Lei, G. Kou, W. Yao, J. Chai and Y. Liu, "Wide-area Measurement System Development at the Distribution Level: a FNET/GridEye Example", *IEEE Trans. Power Delivery*, In Press. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265090)
+4. Y. Liu, L. Zhan, Y. Zhang, P.N. Markham, D. Zhou, **J. Guo**, Y. Lei, G. Kou, W. Yao, J. Chai and Y. Liu, "Wide-area Measurement System Development at the Distribution Level: a FNET/GridEye Example", *IEEE Trans. Power Delivery*, vol.31, no.2, pp. 721-731, 2016. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265090)
 5. C. Huang, F. Li, T. Ding, **J. Guo**, and Y. Liu, "A Bounded Model of the Communication Delay for System Integrity Protection Schemes", *IEEE Trans. Power Delivery*, In Press. [<i class="fa fa-link"></i>](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7414484)
 6. C. Huang, F. Li, D. Zhou, **J. Guo**, Z. Pan, Y. Liu, and Y. Liu, “Data quality issues for synchrophasor applications Part I: a review,” *Journal of Modern Power Systems and Clean Energy*, under review.
 
@@ -38,4 +38,4 @@ share: false
 17. H. Liu, L. Zhu, Z. Pan, **J. Guo**, J. Chai, W. Yu, and Y. Liu, "Comparison of MIMO System Identification Methods for Electromechanical Oscillation Damping Estimation", in *Proc. IEEE 2016 Power and Energy Society General Meeting*, In Press.  
 
 ## Book Chapter
-1. Y. Liu, Y. Liu, Y. Zhang, **J. Guo**, D. Zhou, "Wide Area Monitoring Through Synchrophasor Measurement", *Handbook of Smart Grid Development*, *Wiley*, 2015, In Press.
+1. Y. Liu, Y. Liu, Y. Zhang, **J. Guo**, D. Zhou, "Wide Area Monitoring Through Synchrophasor Measurement", *Handbook of Smart Grid*, *Wiley*, July, 2016. [<i class="fa fa-link"></i>](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118755480.html)
