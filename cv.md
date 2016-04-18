@@ -9,7 +9,7 @@ share: false
 
 {% include _toc.html %}
 
-> A pdf version of the CV can be found [here](cv.pdf), last updated: Jan.19, 2016.
+> A pdf version of the CV can be found [here](/docs/cv.pdf), last updated: Jan.19, 2016.
 
 ## Education
 - **University of Tennessee**, Knoxville, TN, US  
@@ -65,6 +65,8 @@ Inner Mongolia, China, 2006
 - IEEE Transaction on Smart Grid
 - IEEE Transaction on Power Delivery
 - Elsevier Electric Power Systems Research
+- International Journal of Emerging Electric Power Systems
+- CSEE Journal of Power and Energy Systems
 - IEEE PES General Meeting, 2014, 2015, & 2016
 - IEEE International Conference on Smart Grid Communications, 2015
 - IEEE Global Communications Conference, Exhibition & Industry Forum, 2015
