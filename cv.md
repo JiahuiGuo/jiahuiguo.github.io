@@ -47,6 +47,8 @@ share: false
 - Off-Grid Operation Detection from a Wide-Area Measurements Perspective
 
 ## Honors and Awards
+- **Chancellor’s Honors - Extraordinary Professional Promise**
+University of Tennessee, Knoxville, TN, 2016
 - **Min H. Kao Fellowship**  
 University of Tennessee, Knoxville, TN, 2011  
 - **Excellent Social Work Scholarship**  
