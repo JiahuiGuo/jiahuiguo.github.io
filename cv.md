@@ -76,6 +76,7 @@ Inner Mongolia, China, 2006
 - IEEE Electric Utility Deregulation & Restructuring & Power Technologies International Conference, 2015
 - IEEE PES Transmission & Distribution Conference & Exposition, 2016
 - IEEE Power and Energy Conference at Illinois (PECI), 2016
+- IEEE International Conference on ESMO, 2016
 
 ## Skills
 - **Languages**: Native in Chinese, proficiency in English.
