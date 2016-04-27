@@ -24,7 +24,7 @@ share: false
   Advisor: [Dr. Yilu Liu](http://www.eecs.utk.edu/people/faculty/liu) (*NAE Member, IEEE Fellow*)  
   GPA: 4.0/4.0  
 - **Tsinghua University**, Beijing, China  
-  *Bachelor of Science*, 07/2014  
+  *Bachelor of Science*, 07/2011  
   Electrical Engineering  
   Advisor: [Dr. Chongqing Kang](http://www.eea.tsinghua.edu.cn/cn/faculties/cqkang) (*IET Fellow*)  
   GPA: 89.4/100  
