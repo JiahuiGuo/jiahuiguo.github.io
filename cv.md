@@ -72,7 +72,7 @@ Inner Mongolia, China, 2006
 - International Journal of Emerging Electric Power Systems
 - CSEE Journal of Power and Energy Systems
 - IEEE PES General Meeting, 2014, 2015, & 2016
-- IEEE International Conference on Smart Grid Communications, 2015
+- IEEE International Conference on Smart Grid Communications, 2015 & 2016
 - IEEE Global Communications Conference, Exhibition & Industry Forum, 2015
 - IEEE PES Power Africa Conference, 2015
 - IEEE Electric Utility Deregulation & Restructuring & Power Technologies International Conference, 2015
