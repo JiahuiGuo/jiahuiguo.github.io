@@ -43,9 +43,6 @@ share: false
 - **Quality Intern**  
   [Schneider Electric](http://www.schneider-electric.com/b2b/en/solutions/for-business/smart-cities/explore-our-offer/), Beijing, China, Jun. 2010 - Jul. 2010  
 
-## R&D Projects
-- Off-Grid Operation Detection from a Wide-Area Measurements Perspective
-
 ## Honors and Awards
 - **Extraordinary Professional Promise (Chancellor’s Honors)**  
 University of Tennessee, Knoxville, TN, 2016
@@ -71,6 +68,7 @@ Inner Mongolia, China, 2006
 - Elsevier Electric Power Systems Research
 - International Journal of Emerging Electric Power Systems
 - CSEE Journal of Power and Energy Systems
+- Engineering Science and Technology, an International Journal
 - IEEE PES General Meeting, 2014, 2015, & 2016
 - IEEE International Conference on Smart Grid Communications, 2015 & 2016
 - IEEE Global Communications Conference, Exhibition & Industry Forum, 2015
