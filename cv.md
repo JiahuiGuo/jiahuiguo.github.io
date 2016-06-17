@@ -46,7 +46,7 @@ share: false
 ## Honors and Awards
 - **Extraordinary Professional Promise (Chancellor’s Honors)**  
 University of Tennessee, Knoxville, TN, 2016
-- **GSS Travel Award** 
+- **GSS Travel Award**  
 University of Tennessee, Knoxville, TN, 2016 
 - **Min H. Kao Fellowship**  
 University of Tennessee, Knoxville, TN, 2011  
