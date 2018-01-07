@@ -13,7 +13,7 @@ share: false
 
 ## Education
 - **University of Tennessee**, Knoxville, TN, US  
-  *Doctor of Philosophy*,  Expected 08/2016  
+  *Doctor of Philosophy*,  08/2016  
   Electrical Engineering and Computer Science  
   Advisor: [Dr. Yilu Liu](http://www.eecs.utk.edu/people/faculty/liu) (*NAE Member, IEEE Fellow*)  
   GPA: 3.97/4.0  
